@@ -12,5 +12,5 @@ Add link cho github cho repo do
 add file can day len
 4.git commit -m "day la lan commit dau tien"
 Xac nhan lai cac file day len vaf them comment cho moi commit
-5. git push origin main
+5. git push origin main/ git push --set-upstream origin master
 day code len github vao nhanh main
